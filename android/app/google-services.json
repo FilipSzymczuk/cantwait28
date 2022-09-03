@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909861396856",
+    "project_id": "aaddsdada",
+    "storage_bucket": "aaddsdada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909861396856:android:23d6824edbc1491c29288d",
+        "android_client_info": {
+          "package_name": "com.filipszymczuk.cantwait28"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909861396856-uhqlk4hpca5055m9efca6hgt9frqhov8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx77T62hXR6Rg7SGiKwcOGpNQBgn79eiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909861396856-uhqlk4hpca5055m9efca6hgt9frqhov8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
