@@ -9,4 +9,5 @@ class HomeState {
   final List<ItemModel> items;
   final bool loadingErrorOccured;
   final bool removingErrorOccured;
+  
 }
